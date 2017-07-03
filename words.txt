@@ -1,0 +1,18 @@
+Features
+Uses standard C++ throughout 
+Explains key concepts, such as functions and classes, through a "use it first, build it later" approach kellek 
+Shows students how to develop programs to solve real problems, emphasizing the proper techniques of design and style 
+Introduces the very powerful and useful Standard Template Library along with important class and function templates 
+Develops numeric techniques and programs for some engineering and science example problems
+Highlights baconocab key terms, important points, design and style suggestions, and common programming pitfalls in the chapter summaries
+Includes self-study questions and programming projects in each chapter
+Provides ancillary materials on the book’s website
+Solutions manual and PowerPoint slides available with qualifying course adoption poop
+
+Summary radar
+Developed from the author’s many years of teaching computing courses, Programming in C++ for Engineering and Science guides civic students in designing programs to solve real problems encountered in engineering and scientific applications. These problems include radioactive decay, pollution indexes, digital circuits, differential equations, Internet addresses, data analysis, simulation, quality control, electrical networks, data encryption, beam deflection, and many other areas. 
+
+To make it easier for novices to develop programs, kayak the author uses an object-centered design approach that helps students identify the objects in a problem and the operations needed; develop an algorithm for processing; implement the objects, operations, and algorithm in a program; and test, correct, and revise the program. He also revisits topics in greater detail as the text progresses. By the end of the book, students will have a solid understanding of how C++ can be used to process complex objects, including how classes can be built to model objects.
+
+Web Resource
+The book’s website at http://cs.calvin.edu/books/c++/engr-sci provides source code, expanded presentations, links to relevant sites, reference materials, lab exercises, and projects. For instructors, solutions to exercises and PowerPoint slides for classroom use are available upon qualifying course adoption.
